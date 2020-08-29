@@ -7,4 +7,9 @@ Simple demo de como usar python para generar reportes en pdf dinamicos utilizand
 > pip install xhtml2pdf jinja2 pathlib
 > python generate_pdf.py test.html
 
+## Graph libs
 
+* https://plotly.com/python/
+* https://mode.com/blog/python-data-visualization-libraries/
+* https://mode.com/blog/python-interactive-plot-libraries/
+  
